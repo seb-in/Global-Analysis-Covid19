@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv
